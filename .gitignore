@@ -18,3 +18,7 @@ Pods/
 
 # macOS
 .DS_Store
+
+# Markdown
+*.md
+!README.md
